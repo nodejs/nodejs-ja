@@ -12,6 +12,10 @@
 * Mariko Kosaka ([@kosamari](https://github.com/kosamari))
 * Yosuke Furukawa ([@yosuke-furukawa](https://github.com/yosuke-furukawa))
 
+## Slack
+
+* iojs-jpのslackグループへの参加をしたい場合はコチラ。 [iojs-jp-slack](https://iojs-jp-slack.herokuapp.com/)
+
 ## ライセンス
 
 [MIT ライセンス](https://tldrlegal.com/license/mit-license)
