@@ -10,6 +10,7 @@
 
 * Shinnosuke Watanabe ([@shinnn](https://github.com/shinnn))
 * Mariko Kosaka ([@kosamari](https://github.com/kosamari))
+* Yosuke Furukawa ([@yosuke-furukawa](https://github.com/yosuke-furukawa))
 
 ## ライセンス
 
