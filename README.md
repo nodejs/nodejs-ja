@@ -1,4 +1,4 @@
-# iojs-jp
+# iojs-ja
 
 [io.js](https://iojs.org/) の日本語ローカリゼーション (i18n)
 
