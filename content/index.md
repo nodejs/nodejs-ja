@@ -4,7 +4,6 @@
 [ES6](es6.html)をNodeコミュニティへ！
 
 <!-- [io.js](https://github.com/iojs/io.js) is an [npm](https://www.npmjs.org/) compatible platform originally based on [node.js](https://nodejs.org/)&#8482;. -->
-
 [io.js](https://github.com/iojs/io.js)は、[node.js](https://nodejs.org/)&#8482;をベースに作られた[npm](https://www.npmjs.org/)互換プラットフォームです。
 
 [![io.js](../images/1.0.0.png)](https://iojs.org/dist/v1.1.0/)
@@ -13,10 +12,10 @@
 
 Download for
 [Linux](https://iojs.org/dist/v1.1.0/iojs-v1.1.0-linux-x64.tar.xz),
-[Win32](https://iojs.org/dist/v1.1.0/iojs-v1.1.0-x86.msi), [Win64](https://iojs.org/dist/v1.1.0/iojs-v1.1.0-x64.msi),
-or
-[Mac](https://iojs.org/dist/v1.1.0/iojs-v1.1.0.pkg).
-
+[Win32](https://iojs.org/dist/v1.1.0/iojs-v1.1.0-x86.msi),
+[Win64](https://iojs.org/dist/v1.1.0/iojs-v1.1.0-x64.msi),
+[Mac](https://iojs.org/dist/v1.1.0/iojs-v1.1.0.pkg) or
+[others](https://iojs.org/dist/v1.1.0/).
 
 <!-- [Changelog](https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md) -->
 [変更点](https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md)
