@@ -14,7 +14,7 @@
 
 ## Slack
 
-* iojs-jpのslackグループへの参加をしたい場合はコチラ。 [iojs-jp-slack](https://iojs-jp-slack.herokuapp.com/)
+* iojs-jpのslackグループへの参加をしたい場合はこちら。 [iojs-jp-slack](https://iojs-jp-slack.herokuapp.com/)
 
 ## ライセンス
 
