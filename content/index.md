@@ -22,7 +22,7 @@ or
 [変更点](https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md)
 
 <!-- [Nightly releases](https://iojs.org/download/nightly/) are available for testing. -->
-[開発版](https://iojs.org/download/nightly/) のダウンロードも可能です。
+[ナイトリーリリース版](https://iojs.org/download/nightly/) のダウンロードも可能です。
 
 <!-- [Frequently Asked Questions](/faq.html) -->
 [よくある質問](/faq.html)
