@@ -22,7 +22,7 @@ io.jsをより良くすることができるとすれば、node.jsとの分離�
 <!--
 Talks with Joyent are ongoing. Once the foundation has a technical governance model you will see an issue on io.js’ GitHub about whether io.js should join which will be discussed and voted on openly in a public TC meeting following the governance rules we’ve already built.
 -->
-Joyentとの話し合いは現在進行形で続いています。node.js Foundationがテクニカルガバナンスモデルを作り次第、io.jsのGithub isuueにてio.jsがnode.jsに戻るべきかのディスカッションを行い、io.jsのTCミーティングで、私達が作り上げたガバナンスモデルにもとづいて意思決定を行います。
+Joyentとの話し合いは現在進行形で続いています。node.js Foundationがテクニカルガバナンスモデルを作り次第、io.jsのGithub issueにてio.jsがnode.jsに戻るべきかのディスカッションを行い、io.jsのTCミーティングで、私達が作り上げたガバナンスモデルにもとづいて意思決定を行います。
 
 <!--
 For the community, nothing has changed. Please continue to send your pull requests to io.js, join one of the 27 language localization teams, contribute to io.js’ working groups (streams, website, evangelism, tracing, build, roadmap), and continue to adopt io.js in your applications. We intend to continue releasing and improving io.js even if the name might change some day ☺
