@@ -1,7 +1,7 @@
 <!-- io.js and a node.js Foundation
 The current state of reconciliation. -->
 ## io.jsとnode.js Foundation
-調停の現状
+和解の現状
 
 ---
 <!--
