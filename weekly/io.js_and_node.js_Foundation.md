@@ -1,8 +1,9 @@
 <!-- io.js and a node.js Foundation
 The current state of reconciliation. -->
-io.jsとnode.js Foundation
+## io.jsとnode.js Foundation
 調停の現状
 
+---
 <!--
 One week ago Scott Hammond, CEO of Joyent, invited the io.js TC (Technical Committee) to a private meeting where he expressed his intention to start a node.js Foundation and his desire to bring io.js back to the node.js project.
 -->
