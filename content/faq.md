@@ -14,7 +14,7 @@
 io.jsではより早く予測可能なリリースサイクルを実現することを目標にしています。現在のio.jsは、最新V8の言語仕様、API、パフォーマンス改善とアップデートされたlibuvなどのコアライブラリを組み合わせています。
 
 <!-- This project aims to continue development of io.js under an "[open governance model](https://github.com/iojs/io.js/blob/v1.x/GOVERNANCE.md#readme)" as opposed to corporate stewardship. -->
-io.jsでは企業主導ではなく"[オープンガバナンスモデル]"(https://github.com/iojs/io.js/blob/v1.x/GOVERNANCE.md#readme)によるプロジェクト運営を推進しています。
+io.jsでは企業主導ではなく"[オープンガバナンスモデル](https://github.com/iojs/io.js/blob/v1.x/GOVERNANCE.md#readme)"によるプロジェクト運営を推進しています。
 
 <!-- ## Version 1.0.x? -->
 ## 既にバージョン 1.0.x なの?
@@ -26,7 +26,7 @@ io.jsではバージョン付けを[Semver](http://semver.org/)へ移行しま�
 v1.xの[変更履歴](https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md)に[Node.js v0.10.35 から io.js v1.0.xへの変更点](https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md#summary-of-changes-from-nodejs-v01035-to-iojs-v100)が記録されています。
 
 <!-- ## How can I contribute? -->
-##　どうやったら参加できる？
+## どうやったら参加できる？
 
 <!-- Everyone can help. io.js adheres to a [code of conduct](https://github.com/iojs/io.js/blob/v1.x/CONTRIBUTING.md#code-of-conduct), and contributions, releases, and contributorship are under an [open governance](https://github.com/iojs/io.js/blob/v1.x/GOVERNANCE.md#readme) model. -->
 io.jsでは[code of conduct](https://github.com/iojs/io.js/blob/v1.x/CONTRIBUTING.md#code-of-conduct)に従っていれば誰でもプロジェクトに参加できます。プロジェクトへの参加、リリース、コミットアクセスは[オープンガバナンスモデル](https://github.com/iojs/io.js/blob/v1.x/GOVERNANCE.md#readme)で行なっています。
@@ -43,7 +43,7 @@ something there you feel you can tackle, please [make a pull request](https://gi
 ## ディスカッションはどこで行われているの？
 
 <!-- There is an #io.js channel on Freenode IRC. We keep logs of the channel [here](http://logs.libuv.org/io.js/latest). -->
-#io.jsチャンネルがFreenode IRCにあります。IRCのログは[ここ](http://logs.libuv.org/io.js/latest)にとってあります。
+\#io.jsチャンネルがFreenode IRCにあります。IRCのログは[ここ](http://logs.libuv.org/io.js/latest)にとってあります。
 
 <!-- ## What is open source governance? -->
 ## オープンソースガバナンスとは？
