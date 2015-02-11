@@ -7,7 +7,7 @@ The current state of reconciliation. -->
 <!--
 One week ago Scott Hammond, CEO of Joyent, invited the io.js TC (Technical Committee) to a private meeting where he expressed his intention to start a node.js Foundation and his desire to bring io.js back to the node.js project.
 -->
-一週間前、io.jsの[TC(Technical Committee)](https://github.com/iojs/io.js/blob/v1.x/GOVERNANCE.md#technical-committee)はJoynetのCEO Scott Hammondから招待を受けて、node.js Foundationを始める意向とio.jsをnode.jsプロジェクトへ戻したいとの彼の思いについてプライベートな打ち合わせを行いました。
+一週間前、io.jsの[TC(Technical Committee)](https://github.com/iojs/io.js/blob/v1.x/GOVERNANCE.md#technical-committee)はJoyentのCEO Scott Hammondから招待を受けて、node.js Foundationを始める意向とio.jsをnode.jsプロジェクトへ戻したいとの彼の思いについてプライベートな打ち合わせを行いました。
 
 <!--
 In only a few months io.js has grown to 23 active core team members, several working groups, 27 language localization teams, and has been able to release quality software at a good pace with the support of an exceptional community. We’ve been able to accomplish this through an open governance structure that has rejuvenated the community and drawn more contributors to the project than we’ve ever had in the history of node.js.
