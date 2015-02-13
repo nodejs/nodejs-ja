@@ -17,7 +17,7 @@ io.jsではより早く予測可能なリリースサイクルを実現するこ
 io.jsでは企業主導ではなく"[オープンガバナンスモデル](https://github.com/iojs/io.js/blob/v1.x/GOVERNANCE.md#readme)"によるプロジェクト運営を推進しています。
 
 <!-- ## Version 1.0.x? -->
-## 既にバージョン 1.0.x なの?
+## 既にバージョン 1.0.x なのですか？
 
 <!-- io.js has moved to [Semver](http://semver.org/) and the changes between Node.js™ 0.10 and io.js 1.0.0 were significant enough to warrant a major version increment. -->
 io.jsではバージョン付けを[Semver](http://semver.org/)へ移行しました。Node.js™ 0.10 と io.js 1.0.0 ではメジャーバーションアップするだけの変更点があります。
@@ -26,10 +26,10 @@ io.jsではバージョン付けを[Semver](http://semver.org/)へ移行しま�
 v1.xの[変更履歴](https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md)に[Node.js v0.10.35 から io.js v1.0.xへの変更点](https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md#summary-of-changes-from-nodejs-v01035-to-iojs-v100)が記録されています。
 
 <!-- ## How can I contribute? -->
-## どうやったら参加できる？
+## 参加するには？
 
 <!-- Everyone can help. io.js adheres to a [code of conduct](https://github.com/iojs/io.js/blob/v1.x/CONTRIBUTING.md#code-of-conduct), and contributions, releases, and contributorship are under an [open governance](https://github.com/iojs/io.js/blob/v1.x/GOVERNANCE.md#readme) model. -->
-io.jsでは[code of conduct](https://github.com/iojs/io.js/blob/v1.x/CONTRIBUTING.md#code-of-conduct)に従っていれば誰でもプロジェクトに参加できます。プロジェクトへの参加、リリース、コミットアクセスは[オープンガバナンスモデル](https://github.com/iojs/io.js/blob/v1.x/GOVERNANCE.md#readme)で行なっています。
+io.jsでは[code of conduct](https://github.com/iojs/io.js/blob/v1.x/CONTRIBUTING.md#code-of-conduct)に従っていれば誰でもプロジェクトに参加できます。リリースやプロジェクトへのコントリビュートは[オープンガバナンスモデル](https://github.com/iojs/io.js/blob/v1.x/GOVERNANCE.md#readme)で行なっています。
 
 <!-- To get started, there are open [ discussions on GitHub](https://github.com/iojs/io.js/issues), and we'd love to hear your feedback.
 Becoming involved in discussions is a good way to get a feel of where you can help out further. If there is
@@ -37,7 +37,7 @@ something there you feel you can tackle, please [make a pull request](https://gi
 まずは[GitHubのディスカッション](https://github.com/iojs/io.js/issues)に参加して意見やフィードバックを交わしてください。何があなたのヘルプを必要としているか雰囲気をつかみやすいと思います。あなたが取り組めそうなものを見つけたら[pull request](https://github.com/iojs/io.js/blob/v1.x/CONTRIBUTING.md#code-contributions)を送ってください。
 
 <!-- In addition, using [Nodebug.me](http://nodebug.me/) is a good way to help Triage the issues in the backlog. -->
-この他にも、[Nodebug.me](http://nodebug.me/)でバックログissuesの優先付けに貢献することもできます。
+この他にも、[Nodebug.me](http://nodebug.me/)で未解決issuesの優先付けに貢献することもできます。
 
 <!-- ## Where do discussions take place? -->
 ## ディスカッションはどこで行われているの？
@@ -49,5 +49,5 @@ something there you feel you can tackle, please [make a pull request](https://gi
 ## オープンソースガバナンスとは？
 
 <!-- Open source governance advocates the application of the philosophies of the open source and open content movements in order to enable any interested party to add to the creation of the end product, as with a wiki document. Legislation is democratically opened to the general citizenry, employing their collective wisdom to benefit the decision-making process and improve democracy. [[source]](https://en.wikipedia.org/wiki/Open-source_governance) -->
-オープンソースガバナンスでは、オープンソースとオープンコンテンツ運動の意思を次いで（例えばwikipediaの記事のように）誰もが活動に参加することができます。ルールの制定にはコミュニティによる民主制を採用し、多くの人の知恵を借りて意思決定を行います。[[参照]](https://en.wikipedia.org/wiki/Open-source_governance)
+オープンソースガバナンスはオープンソースとオープンコンテンツの理念にもとづいて、(例えばwikiの文書のように)興味を持った人達が誰でも最終的なプロダクトの形成に加わることを提唱します。ルールの制定にはコミュニティによる民主制を採用し、多くの人の知恵を集めて意思決定を行います。[[参照]](https://en.wikipedia.org/wiki/Open-source_governance)
 
