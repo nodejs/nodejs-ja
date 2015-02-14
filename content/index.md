@@ -3,8 +3,8 @@
 <!-- Bringing [ES6](es6.html) to the Node Community! -->
 [ES6](es6.html)をNodeコミュニティへ！
 
-<!-- [io.js](https://github.com/iojs/io.js) is an [npm](https://www.npmjs.org/) compatible platform originally based on [node.js](https://nodejs.org/)&#8482;. -->
-[io.js](https://github.com/iojs/io.js)は、[node.js](https://nodejs.org/)&#8482;をベースに作られた[npm](https://www.npmjs.org/)互換プラットフォームです。
+<!-- [io.js](https://github.com/iojs/io.js) is an [npm](https://www.npmjs.com/) compatible platform originally based on [node.js](https://nodejs.org/)&#8482;. -->
+[io.js](https://github.com/iojs/io.js)は、[node.js](https://nodejs.org/)&#8482;をベースに作られた[npm](https://www.npmjs.com/)互換プラットフォームです。
 
 [![io.js](../images/1.0.0.png)](https://iojs.org/dist/v1.2.0/)
 
