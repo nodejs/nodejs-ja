@@ -36,7 +36,7 @@ Download for
 [ナイトリーリリース版](https://iojs.org/download/nightly/) のダウンロードも可能です。
 
 <!-- 
-[Frequently Asked Questions](/faq.html) 
+[Frequently Asked Questions](faq.html) 
 -->
 
-[よくある質問](/faq.html)
+[よくある質問](faq.html)
