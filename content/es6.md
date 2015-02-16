@@ -56,9 +56,9 @@ io.js 1.x (V8 4.1+)では、こういった複雑なことをする必要は一�
 
 *   Block scoping
 
-    *   [let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+    *   [let](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/let)
 
-    *   [const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
+    *   [const](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/const)
 
     *   `function`-in-blocks
 
@@ -123,7 +123,7 @@ You can view a more detailed list, including a comparison with other engines, on
 *   [`Symbol.toStringTag`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol) (user-definable results for `Object.prototype.toString`, behind flag `--harmony_tostring`)
 -->
 
-*   [`Symbol.toStringTag`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol) (ユーザーが定義可能な`Object.prototype.toString`。`--harmony_tostring`でも有効)
+*   [`Symbol.toStringTag`](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol) (ユーザーが定義可能な`Object.prototype.toString`。`--harmony_tostring`でも有効)
 
 <!-- 
 ## Which ES6 features are in progress? 
