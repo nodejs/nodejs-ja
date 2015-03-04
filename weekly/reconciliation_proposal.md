@@ -2,7 +2,7 @@
 A lot of questions have been coming our way about what a merger of the node.js and io.js projects might look like. People in both projects want to know their work won't be thrown away and that we can preserve the positive aspects of each project.
 -->
 
-node.js と io.js のプロジェクトをどんな風に統合するのかに関して、たくさんの質問が寄せられている。両方のプロジェクトに関わっている人は彼らのやっている事が無駄にされるんじゃないかとか、各プロジェクトのプラスの側面を保存できるのかといったことを知りたがっている。
+node.js と io.js のプロジェクトをどんな風に統合するのかに関して、たくさんの質問が寄せられている。両方のプロジェクトに関わっている人は自分たちのやっていることが無駄になるのではないか、各プロジェクトのプラスの側面を保存できるのかといったことを知りたがっている。
 
 <!--
 This is a draft and will be continually updated and edited based on input from the community. It is not an ultimatum to Joyent or The Node.js Foundation but rather a collaboration point for the io.js community to produce a proposal for merging.
