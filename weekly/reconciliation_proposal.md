@@ -8,7 +8,7 @@ node.js と io.js のプロジェクトをどんな風に統合するのかに�
 This is a draft and will be continually updated and edited based on input from the community. It is not an ultimatum to Joyent or The Node.js Foundation but rather a collaboration point for the io.js community to produce a proposal for merging.
 -->
 
-この 文書はドラフトであり、コミュニティからの意見によって随時更新され、編集されていくようにするつもりだ。
+この文書はドラフトであり、コミュニティからの意見によって随時更新され、編集されていくようにするつもりだ。
 この文書は Joyent や Node.js Foundation への最終意思ではなく、むしろ統合のための提案書をこちらから提供することで io.js コミュニティにとっての協力できるポイントを明らかにする目的だ。
 
 <!--
@@ -116,7 +116,7 @@ LTS WG はメンテナンスと Node の古いバージョンのリリースに�
 Node produces patch releases of prior versions for as long as community members are willing to maintain them. The LTS WG is responsible for when it no longer has the contributions necessary to support a particular version.
 -->
 
-Node (node.js + io.js) は可能な限り長く、コミュニティのメンバーがメンテナンスを望むまで、昔のバージョンの patch リリースを生成することとする。特有のバージョンをサポートするためにコントリビュートをしなくてはいけない、というわけではない。LTS WG はその時まで責任をもつということだ。
+Node (node.js + io.js)は可能な限り長く、コミュニティのメンバーがメンテナンスを望むまで、昔のバージョンの patch リリースを生成することとする。特定のバージョンをサポートするためにコントリビュートをしなければならないわけではなく、LTS WG でその時まで責任をもつということだ。
 
 <!--
 The LTS WG's responsibilities are:
@@ -131,7 +131,7 @@ LTS WGの責任範囲は:
 - Initial Members would include
 -->
 
-- バグ修正を作成し、下位バージョンにバックポートすること、安定性を改善すること、さらに他の適した変更をの前のリリースバージョンにも適用すること(現在のバージョンや Canary は除く)。
+- バグ修正を作成し、下位バージョンにバックポートすること、安定性を改善すること、さらに他の適した変更の前のリリースバージョンにも適用すること(現在のバージョンや Canary は除く)。
 - 管理やバックポートへの変更を効率化し、自動化するためのツールの作成とメンテナンスを行うこと。
 - 安定したパッチリリースを保証するためのポリシーの文書化、徹底を行うこと。
 - 初期メンバーには下記の者を含む
