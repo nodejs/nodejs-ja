@@ -21,7 +21,7 @@ This document uses the terms io.js and node.js to refer to those projects prior 
 While io.js is often used as a starting point this document treats a future project under the foundation as a new organism made from the merger of each project and not as an extension of only node.js or only io.js. The goal of the merger should be a project that is actually greater than the sum these parts.
 -->
 
-また io.js は出発点として使われることになるだろう。本ドキュメントは node.js だけや  io.js だけの範囲じゃなく、各プロジェクトの統合から新しい組織体が作られ、その  foundation の下で未来のプロジェクトを扱うことになるだろう。統合の最終目標はこれらのパーツを集めただけのものよりも大きいプロジェクトになるべきだと思う。
+io.jsは出発点と言われることがよくあるが、本ドキュメントではfoundation下に置かれる新プロジェクトを、 node.jsやio.jsの延長としてだけでなく両プロジェクトの統合による新たな組織体として扱う。統合の最終目標はこれらのパーツを集めただけのものよりも大きいプロジェクトになるべきだと思う。
 
 # Technical Governance
 
@@ -236,7 +236,7 @@ Just as we have done with current stable, the "next" line of Node development sh
 The nodejs.org website would transfer to the Website WG and become the responsibility of that working group. The website will be retooled similar to iojs.org (gulp builds) so that it can be localized by the various language communities from io.js.
 -->
 
-nodejs.org のウェブサイトは Website WG に移管され、Working group の責任範囲の一つになるだろう。nodejs.org のウェブサイトは再構成され、iojs.org (gulp で構築されたサイト)に似たものになる。さらに io.js から多種多様な言語コミュニティによってローカライズされることになるだろう。
+nodejs.org のウェブサイトは Website WG に移管され、Working group の責任範囲の一つになるだろう。また、io.jsの言語コミュニティによってウェブサイトをローカライズができるように、iojs.org (gulp で構築されたサイト)に似たものへと再構築する。
 
 # Social Media
 
