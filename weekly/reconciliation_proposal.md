@@ -1,3 +1,9 @@
+# 和解プロポーザル
+
+[iojs/io.js#978](https://github.com/iojs/io.js/issues/978) で議論されている [mikeal](https://github.com/mikeal) の和解プロポーザルを翻訳したものです。
+
+---
+
 <!--
 A lot of questions have been coming our way about what a merger of the node.js and io.js projects might look like. People in both projects want to know their work won't be thrown away and that we can preserve the positive aspects of each project.
 -->
@@ -21,7 +27,7 @@ This document uses the terms io.js and node.js to refer to those projects prior 
 While io.js is often used as a starting point this document treats a future project under the foundation as a new organism made from the merger of each project and not as an extension of only node.js or only io.js. The goal of the merger should be a project that is actually greater than the sum these parts.
 -->
 
-io.jsは出発点と言われることがよくあるが、本ドキュメントではfoundation下に置かれる新プロジェクトを、 node.jsやio.jsの延長としてだけでなく両プロジェクトの統合による新たな組織体として扱う。統合の最終目標はこれらのパーツを集めただけのものよりも大きいプロジェクトになるべきだと思う。
+io.js は出発点と言われることがよくあるが、本ドキュメントではfoundation下に置かれる新プロジェクトを、node.js や io.js の延長としてだけでなく両プロジェクトの統合による新たな組織体として扱う。統合の最終目標はこれらのパーツを集めただけのものよりも大きいプロジェクトになるべきだと思う。
 
 # Technical Governance
 
@@ -43,7 +49,7 @@ Node.js Foundation は *Technical Governance Structure* (foundation の運営組
 Because foundation bylaws are quite difficult to change and the TC wishes to make continued iterative improvements to its structure it would be a mistake to bake the entire governance structure as it exists today in to the foundation bylaws.
 -->
 
-このような事を明記したのは、foundation の規定変更がかなり難しい事が挙げられているためだ。 TC はその foundation の規定に対して、現在存在する全体の運用構造を壊し、間違いを見つけては繰り返しその組織構造を改善しようと望んできた。
+このような事を明記したのは、foundation の規定変更がかなり難しい事が挙げられているためだ。TC はその foundation の規定に対して、現在存在する全体の運用構造を壊し、間違いを見つけては繰り返しその組織構造を改善しようと望んできた。
 
 <!--
 As an initial agreed upon structure, beyond what is in the bylaws, the following documents would be adopted from io.js.
@@ -156,7 +162,7 @@ bullet point.
 Because there is currently no overlap between io.js and node.js versions we can, and in fact must, consider all versions of both projects as now being versions of Node. If we did not we would unnecessarily break a large portion of the community that depends on these versions.
 -->
 
-io.js と node.js でオーバーラップ(重複)しているバージョン(v0.12.0とかv1.1.0とか)は存在せず、実際には両プロジェクトの全てのバージョンを合わせて Node のバージョンとして捉えることができる。もしバージョンをオーバーラップさせていたら、これらのバージョンに依存してコミュニティの巨大な部分を不必要に壊していただろう。
+io.js と node.js でオーバーラップ(重複)しているバージョン(v0.12.0やv1.1.0など)は存在せず、実際には両プロジェクトの全てのバージョンを合わせて Node のバージョンとして捉えることができる。もしバージョンをオーバーラップさせていたら、これらのバージョンに依存してコミュニティの巨大な部分を不必要に壊していただろう。
 
 <!--
 Prior Releases
@@ -204,7 +210,7 @@ In the last few months io.js has made huge gains in part due to the fact that it
 This does not, however, mean that 0.12.x is a "dead" line. Far from it, 0.12.x and 0.10.x are still in use by many users and it will be the work of the LTS WG to continue to ensure those users have a stable and supported platform.
 -->
 
-ただし、 0.12.x は "死んだ" ということではない。それどころか、0.12.x や 0.10.x はたくさんのユーザーによって今でも使われているし、LTS WG の活動で 0.12.x や 0.10.x を使っているユーザーは安定してサポートされたプラットフォームを持つことが保証され続けるだろう。
+ただし、0.12.x は "死んだ" ということではない。それどころか、0.12.x や 0.10.x はたくさんのユーザーによって今でも使われているし、LTS WG の活動で 0.12.x や 0.10.x を使っているユーザーは安定してサポートされたプラットフォームを持つことが保証され続けるだろう。
 
 <!--
 Non-Versioned Releases
@@ -244,7 +250,7 @@ nodejs.org のウェブサイトは Website WG に移管され、Working group �
 The social media accounts (Twitter, Facebook, etc) will transfer to the Evangelism WG.
 -->
 
-ソーシャルメディアのアカウント(Twitter, Facebook, など) は Evangelism WG に移管。
+ソーシャルメディアのアカウント(Twitter, Facebook, など)は Evangelism WG に移管。
 
 # Evangelism WG
 
