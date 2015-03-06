@@ -20,10 +20,9 @@
 
 ## iojs/website
 
-* gulpをインストールしておく `npm install gulp -g`
 * [iojs/website](https://github.com/iojs/website)をcloneする
 * `website/content/ja` 以下のファイルを更新する
-* 更新したら `gulp` コマンドを実行する
+* 更新したら `npm run gulp develop` コマンドを実行する
 * http://127.0.0.1:4657/ja/index.html を開く
 * 自分の翻訳した内容が反映されていることを確認する
 
