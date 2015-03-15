@@ -11,6 +11,9 @@
 * Shinnosuke Watanabe ([@shinnn](https://github.com/shinnn))
 * Mariko Kosaka ([@kosamari](https://github.com/kosamari))
 * Yosuke Furukawa ([@yosuke-furukawa](https://github.com/yosuke-furukawa))
+* Takaya Kobayashi ([@e-jigsaw](https://github.com/e-jigsaw))
+* Takashi Fujita ([@tgfjt](https://github.com/tgfjt))
+* Takashi Nakagawa ([@takashi](https://github.com/takashi))
 
 ## Slack
 
