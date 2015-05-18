@@ -14,6 +14,7 @@
 * Takaya Kobayashi ([@e-jigsaw](https://github.com/e-jigsaw))
 * Takashi Fujita ([@tgfjt](https://github.com/tgfjt))
 * Takashi Nakagawa ([@takashi](https://github.com/takashi))
+* Daijiro Wachi ([@watilde](https://github.com/watilde))
 
 ## Slack
 
