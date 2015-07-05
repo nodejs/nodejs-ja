@@ -4,6 +4,10 @@ Critical security releases for node.js and io.js
 
 # Node.js と io.js のCritical Security Issue について
 
+緊急のセキュリティパッチについて
+
+---
+
 <!--
 node.js-v0.12.6
 io.js-v2.3.3
@@ -43,5 +47,4 @@ Kris Reeves と Trevor Norris は V8 のバグを UTF 文字列のデコード�
 The initial ETA was midday PDT. Unfortunately, the patch wasn’t quite ready and there was an extended test and verification process for V8, io.js and Node.js during the day. The builds also take some time on top of that, hence the delay. Fedor Indutny created the fix, Ben Noordhuis, Trevor Norris, Julien Gilli, Rod Vagg, Michael Dawson and Jeremiah Senkpiel all worked very hard to make this land successfully.
 -->
 
-最初はもう少し早くパッチを提供する予定でしたが、不幸なことに、初期のパッチはまだ十分ではありませんでした。追加のテストと V8, io.js と Node.jsの検証プロセスを経る必要がありました。 少し遅れましたが、このページのトップにビルドを追加することができました。 Fedor Indutny が修正パッチを作成し、 Ben Noordhuis, Trevor Norris, Julien Gilli, Rod Vagg, Michael Dawson そして Jeremiah Sankpiel がこのパッチをビルドするのに多くの労力を尽くし、成功させました。 
-
+最初はもう少し早くパッチを提供する予定でしたが、不幸なことに、初期のパッチはまだ十分ではありませんでした。追加のテストと V8, io.js と Node.jsの検証プロセスを経る必要がありました。 少し遅れましたが、このページのトップにビルドを追加することができました。 Fedor Indutny が修正パッチを作成し、 Ben Noordhuis, Trevor Norris, Julien Gilli, Rod Vagg, Michael Dawson そして Jeremiah Sankpiel がこのパッチをビルドするのに多くの労力を尽くし、成功させました。
