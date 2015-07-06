@@ -16,7 +16,7 @@ io.js-v1.8.3
 
 - [node.js-v0.12.6](http://nodejs.org/dist/v0.12.6/)
 - [io.js-v2.3.3](https://iojs.org/dist/v2.3.3/)
-- [io.js-v1.8.3](https://iojs.org/dist/v1.8.3://iojs.org/dist/v1.8.3/)
+- [io.js-v1.8.3](https://iojs.org/dist/v1.8.3/)
 
 <!--
 First, the obvious: the handling of this hasn’t been ideal, it would have been nice to take our time and do this more strategically. It’s evening in the USA and it’s the weekend of the 4th of July.
