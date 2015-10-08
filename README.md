@@ -1,6 +1,6 @@
-# iojs-ja
+# nodejs-ja
 
-[io.js](https://iojs.org/) の日本語ローカリゼーション (i18n)
+[node.js](https://nodejs.org/) の日本語ローカリゼーション (i18n)
 
 ## Twitter
 
@@ -22,9 +22,9 @@
 
 ## 翻訳の表示を確認する方法
 
-## iojs/website
+## nodejs/website
 
-* [iojs/website](https://github.com/iojs/website)をcloneする
+* [nodejs/website](https://github.com/nodejs/website)をcloneする
 * `website/content/ja` 以下のファイルを更新する
 * 更新したら `npm run gulp develop` コマンドを実行する
 * http://127.0.0.1:4657/ja/index.html を開く
