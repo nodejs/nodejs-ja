@@ -22,12 +22,13 @@
 
 ## 翻訳の表示を確認する方法
 
-## nodejs/website
+## nodejs/nodejs.org
 
-* [nodejs/website](https://github.com/nodejs/website)をcloneする
-* `website/content/ja` 以下のファイルを更新する
-* 更新したら `npm run gulp develop` コマンドを実行する
-* http://127.0.0.1:4657/ja/index.html を開く
+* [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org)をcloneする
+* `npm install` コマンドを実行する
+* `locale/ja` 以下のファイルを更新する
+* 更新したら `npm start` コマンドを実行する
+* http://127.0.0.1:8080/ja/index.html を開く
 * 自分の翻訳した内容が反映されていることを確認する
 
 ## iojs-jp/blog
