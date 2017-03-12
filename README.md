@@ -15,6 +15,7 @@
 * Takashi Fujita ([@tgfjt](https://github.com/tgfjt))
 * Takashi Nakagawa ([@takashi](https://github.com/takashi))
 * Daijiro Wachi ([@watilde](https://github.com/watilde))
+* Tadatoshi Hanazaki ([@tdtsh](https://github.com/tdtsh))
 
 ## Slack
 
