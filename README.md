@@ -16,6 +16,7 @@
 * Takashi Nakagawa ([@takashi](https://github.com/takashi))
 * Daijiro Wachi ([@watilde](https://github.com/watilde))
 * Sota Yamashita ([@sotayamashita](https://github.com/sotayamashita))
+* Tadatoshi Hanazaki ([@tdtsh](https://github.com/tdtsh))
 
 ## Slack
 
