@@ -22,6 +22,11 @@
 
 * iojs-jpのslackグループへの参加をしたい場合はこちら。 [iojs-jp-slack](https://iojs-jp-slack.herokuapp.com/)
 
+## 翻訳に参加する
+
+2018年6月より、 [Crowdin](https://crowdin.com/) 上にて翻訳が行われています。  
+[こちら](https://crowdin.com/project/nodejs/ja) から翻訳に参加することが出来ます。
+
 ## 翻訳の表示を確認する方法
 
 ## nodejs/nodejs.org
