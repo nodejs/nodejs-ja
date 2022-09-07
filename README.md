@@ -18,10 +18,6 @@
 * Sota Yamashita ([@sotayamashita](https://github.com/sotayamashita))
 * Tadatoshi Hanazaki ([@tdtsh](https://github.com/tdtsh))
 
-## Slack
-
-* iojs-jpのslackグループへの参加をしたい場合はこちら。 [iojs-jp-slack](https://iojs-jp-slack.herokuapp.com/)
-
 ## 翻訳に参加する
 
 2018年6月より、 [Crowdin](https://crowdin.com/) 上にて翻訳が行われています。  
